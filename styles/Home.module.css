@@ -1,0 +1,14 @@
+.title {
+  color: #000;
+  font-size: 20px;
+  text-align: center;
+}
+
+.table {
+  width: 50%;
+  font-size: 12px;
+  margin:auto;
+  text-align: center;
+  border-collapse: collapse;
+  border-color: #000;
+}
